@@ -1,0 +1,54 @@
+﻿ <!-- header-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="container-fluid border-bottom " style="        background-color:#ffd800;
+        padding-top: 5px">
+        <div class="container  ">
+
+            <div class="row">
+                
+                <div class="col-md-6">
+                    <div class="text-dark ">
+                        <ul class="d-block mt-2" style="font-size:16px;">
+                            <li class="d-inline-block " style=" color:#000000"></li>
+                            <li class=" d-inline-block  pr-3" style=" color: #000000"></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-6 ">
+                    <ul class=" float-right d-block  mt-2" style="font-size:14px; color:#000000;font-family: 'Roboto', sans-serif;">
+                        @if (ViewBag.name != "")
+                        {
+                            <li class=" show d-inline-block">
+                                <a class="page-item pr-3 dropdown-toggle  " href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-user "></i>
+                                    @ViewBag.name
+                                </a>
+                                <div class="dropdown-menu mt-3" aria-labelledby="dropdownMenuLink">
+                                    <a class="dropdown-item border-bottom" href="~/tai-khoan/@ViewBag.id" style=" color: #000000; font-family: 'Roboto', sans-serif;"><i class="far fa-user" style=" color: #000000"></i> Quản lý tài khoản</a>
+                                    <a class="dropdown-item border-bottom" href="~/tai-khoan/@ViewBag.id" style=" color: #000000; font-family: 'Roboto', sans-serif;"><i class="far fa-heart" style=" color: #000000"></i> Sản phẩm yêu thích</a>
+                                    <a class="dropdown-item " href="/logout" style=" color: #000000; font-family: 'Roboto', sans-serif;"><i class="fas fa-sign-out-alt" style=" color: #000000; font-family: 'Roboto', sans-serif;"></i> Đăng xuất</a>
+                                </div>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="page-item pr-3 d-inline-block"><a href="" data-toggle="modal" data-target="#myModal_login" style=" color: #000000; font-family: 'Roboto', sans-serif;"><i class="fas fa-sign-out-alt" style=" color: #000000"></i> Đăng Nhập </a></li>
+                            <li class="page-item pr-3 d-inline-block"><a href="" data-toggle="modal" data-target="#myModal_signup" style=" color: #000000; font-family: 'Roboto', sans-serif;"><i class="fas fa-user-plus" style=" color: #000000"></i> Đăng Kí</a></li>
+                        }
+                        @Html.Action("card_header", "cart")
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </header>
+</body>

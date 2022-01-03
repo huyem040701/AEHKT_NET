@@ -1,0 +1,231 @@
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\SpaceTeam.dll.config
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\SpaceTeam.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\SpaceTeam.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\csc.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\csc.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\csc.rsp
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\csi.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\csi.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\csi.rsp
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.AppContext.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Console.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\vbc.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\vbc.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\vbc.rsp
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\PagedList.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\PagedList.Mvc.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Helpers.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Mvc.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Razor.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Webpages.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\PagedList.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\PagedList.Mvc.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Razor.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Webpages.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Helpers.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\System.Web.Mvc.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\obj\Debug\SpaceTeam.csprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\obj\Debug\SpaceTeam.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\obj\Debug\SpaceTeam.csproj.CopyComplete
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\obj\Debug\SpaceTeam.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\NguyenVanHung_2117110236\SpaceTeam\obj\Debug\SpaceTeam.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\SpaceTeam.dll.config
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\SpaceTeam.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\SpaceTeam.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\csc.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\csc.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\csc.rsp
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\csi.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\csi.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\csi.rsp
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.AppContext.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Console.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\vbc.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\vbc.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\vbc.rsp
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\PagedList.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\PagedList.Mvc.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Helpers.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Mvc.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Razor.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\PagedList.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\PagedList.Mvc.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Razor.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Helpers.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\System.Web.Mvc.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.csprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.csproj.CopyComplete
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.pdb
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\SpaceTeam.dll.config
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\SpaceTeam.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\SpaceTeam.pdb
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\csc.exe
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\csc.exe.config
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\csc.rsp
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\csi.exe
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\csi.exe.config
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\csi.rsp
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.AppContext.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Collections.Immutable.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Console.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.Compression.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.FileSystem.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.IO.Pipes.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.AccessControl.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Claims.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.ValueTuple.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.XPath.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\vbc.exe
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\vbc.exe.config
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\vbc.rsp
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\VBCSCompiler.exe
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\roslyn\VBCSCompiler.exe.config
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\EntityFramework.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\EntityFramework.SqlServer.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\Microsoft.Web.Infrastructure.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\PagedList.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\PagedList.Mvc.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Helpers.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Mvc.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Razor.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Deployment.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Razor.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\EntityFramework.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\EntityFramework.SqlServer.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\PagedList.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\PagedList.Mvc.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Razor.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Deployment.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Webpages.Razor.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Helpers.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\System.Web.Mvc.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dotnet\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.csprojAssemblyReference.cache
+E:\Dotnet\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.csproj.CoreCompileInputs.cache
+E:\Dotnet\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.csproj.CopyComplete
+E:\Dotnet\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.dll
+E:\Dotnet\.NET_Space_Team\SpaceTeam\obj\Debug\SpaceTeam.pdb
